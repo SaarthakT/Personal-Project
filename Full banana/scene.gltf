@@ -1,0 +1,228 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 16980,
+      "max": [
+        -0.3942509889602661,
+        35.03054428100586,
+        0.2382510006427765
+      ],
+      "min": [
+        -0.4920330047607422,
+        34.990753173828125,
+        0.060444001108407974
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 203760,
+      "componentType": 5126,
+      "count": 16980,
+      "max": [
+        0.9997493028640747,
+        0.999999463558197,
+        0.9997208118438721
+      ],
+      "min": [
+        -0.9995430111885071,
+        -0.9999614953994751,
+        -0.9996933937072754
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 16980,
+      "max": [
+        0.9999955296516418,
+        0.9999997019767761,
+        0.8150219321250916,
+        1.0
+      ],
+      "min": [
+        -0.9999997615814209,
+        -0.9999991655349731,
+        -0.9771524667739868,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 16980,
+      "max": [
+        0.9990230202674866,
+        0.4443359971046448
+      ],
+      "min": [
+        0.0009769999887794256,
+        0.0009769999887794256
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 90000,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "grafi (https://sketchfab.com/zdenkoroman)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/banana-3d-scan-c4f9b194abca4db7b4cd0ec6270f9d60",
+      "title": "Banana 3D scan"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 360000,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 135840,
+      "byteOffset": 360000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 407520,
+      "byteOffset": 495840,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 271680,
+      "byteOffset": 903360,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1175040,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/material_0_baseColor.png"
+    },
+    {
+      "uri": "textures/material_0_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "material_0",
+      "normalTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        3.284039706841213e-13,
+        -3.8191672047105385e-14,
+        1.0,
+        0.0,
+        3.952393967665557e-14,
+        -1.0,
+        -2.120525977034049e-13,
+        0.0,
+        1.0,
+        2.133848653329551e-13,
+        -1.5454304502782174e-13,
+        0.0,
+        -0.5924894213676453,
+        35.16004180908204,
+        -34.56755065917968,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "export_low_poly.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

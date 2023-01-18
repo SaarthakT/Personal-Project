@@ -1,0 +1,11 @@
+Model Information:
+* title:	Peeled Banana 22
+* source:	https://sketchfab.com/3d-models/peeled-banana-22-cad5da0a14ae43759cd9221dd6099bb9
+* author:	deep3dstudio (https://sketchfab.com/deep3dstudio)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Peeled Banana 22" (https://sketchfab.com/3d-models/peeled-banana-22-cad5da0a14ae43759cd9221dd6099bb9) by deep3dstudio (https://sketchfab.com/deep3dstudio) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

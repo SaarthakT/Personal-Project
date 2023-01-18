@@ -1,0 +1,11 @@
+Model Information:
+* title:	Peeled Banana Laying Down
+* source:	https://sketchfab.com/3d-models/peeled-banana-laying-down-764079c328354a68badd57818214fdd1
+* author:	sadfsdfsf (https://sketchfab.com/sadfsdfsf)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Peeled Banana Laying Down" (https://sketchfab.com/3d-models/peeled-banana-laying-down-764079c328354a68badd57818214fdd1) by sadfsdfsf (https://sketchfab.com/sadfsdfsf) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
